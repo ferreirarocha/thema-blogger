@@ -916,8 +916,8 @@ form.subscribe-form {
 }
 
 .widget-meta {
-    color: #aaa;
-    font-size: 11px;
+    color: #0275b6;
+    font-size: 12px;
     font-weight: 400
 }
 
@@ -1219,7 +1219,7 @@ ul.featured-posts li.last-item {
 }
 
 .meta-post a {
-    color: #aaa;
+    color: #0275b6;
     margin-right: 10px
 }
 
