@@ -4592,7 +4592,8 @@ color: #fff;
   </b:widget>
   <b:widget id='HTML7' locked='false' title='Curso' type='HTML' version='1'>
     <b:widget-settings>
-      <b:widget-setting name='content'><![CDATA[<a href="https://feedburner.google.com/fb/a/mailverify?uri=Alfaech&amp;loc=en_US">Quer receber as novidades por E-mail?</a>]]></b:widget-setting>
+      <b:widget-setting name='content'>&lt;a href=&quot;https://feedburner.google.com/fb/a/mailverify?uri=Alfaech&amp;amp;loc=en_US&quot;&gt;Quer receber as novidades por E-mail?&lt;/a&gt;
+&lt;a href=&quot;http://s.click.aliexpress.com/e/bltoI5vO?bz=300*250&quot; target=&quot;_parent&quot;&gt;&lt;img width=&quot;300&quot; height=&quot;250&quot; src=&quot;https://ae01.alicdn.com/kf/HTB1Wb1ewv5TBuNjSspc762nGFXaN/PT_300_250.png&quot;/&gt;&lt;/a&gt;</b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'><b:if cond='data:title != &quot;&quot;'><h2 class='title'><data:title/></h2></b:if><div class='widget-content'><data:content/></div><b:include name='quickedit'/></b:includable>
   </b:widget>
@@ -4608,7 +4609,7 @@ color: #fff;
   </b:widget>
   <b:widget id='HTML12' locked='false' title='Curso 3' type='HTML' version='1'>
     <b:widget-settings>
-      <b:widget-setting name='content'><![CDATA[<a href="https://www.oddthemes.com/2017/09/meshmag-magazine-blogger-template.html"><img src="https://1.bp.blogspot.com/-xcqgdRmEvbg/WbmhwVDMo5I/AAAAAAAAG8s/XaXS09pSHzgTw2qQLaQNbgnlM-mL4J0hACK4BGAYYCw/s1600/sidebar%2Bad.jpg" width="100%/" /></a>]]></b:widget-setting>
+      <b:widget-setting name='content'><![CDATA[<a href="http://s.click.aliexpress.com/e/bkpHrkak?bz=300*250" target="_parent"><img width="300" height="250" src="https://ae01.alicdn.com/kf/HTB1l99XXYuWBuNjSszg7628jVXaC/PT_300_250.png"/></a>]]></b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'><b:if cond='data:title != &quot;&quot;'><h2 class='title'><data:title/></h2></b:if><div class='widget-content'><data:content/></div><b:include name='quickedit'/></b:includable>
   </b:widget>
@@ -4671,7 +4672,7 @@ color: #fff;
 </b:widget>
 <b:widget id='HTML6' locked='false' title='Cursos' type='HTML' version='1'>
   <b:widget-settings>
-    <b:widget-setting name='content'>[3,Design,post-tag]</b:widget-setting>
+    <b:widget-setting name='content'/>
   </b:widget-settings>
   <b:includable id='main'><b:if cond='data:title != &quot;&quot;'><h2 class='title'><data:title/></h2></b:if><div class='widget-content'><data:content/></div></b:includable>
 </b:widget>
