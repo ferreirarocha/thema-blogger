@@ -1306,8 +1306,9 @@ ul.featured-posts li.last-item {
     color: #5E5E5E;
     font-size: 15px;
     line-height: 2.0em;
-    overflow: hidden;
-    padding: 0
+		overflow: hidden;
+		padding: 0;
+		padding-bottom: 100px;
 }
 
 .item .post-outer {
