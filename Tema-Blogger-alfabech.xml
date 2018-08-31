@@ -1337,9 +1337,10 @@ ul.featured-posts li.last-item {
 }
 
 .post-meta a {
-    color: #aaa;
+		color: #0275b6;
     margin-right: 10px;
-    transition: color .3s
+    transition: color .3s;
+    font-family: sans-serif;
 }
 
 .post-timestamp {
@@ -1428,11 +1429,12 @@ ul.featured-posts li.last-item {
 
 .ty-share-post > span {
     float: left;
-    color: #aaa;
+    color: #008080;
     font-size: 11px;
     text-transform: uppercase;
     line-height: 28px;
     margin-right: 10px
+		font-family: ubuntu;
 }
 
 .ty-share-post > span:before {
