@@ -875,7 +875,7 @@ form.subscribe-form {
     line-height: 1.5em;
     font-weight: 400;
     margin: 7px 0 3px;
-    color: #777;
+    color: #5a5a5a;
     text-align: justify
 }
 
@@ -1057,7 +1057,7 @@ ul.featured-posts li.last-item {
     position: relative;
     display: block;
     font-size: 13px;
-    color: #777;
+    color: #5a5a5a;
     line-height: 1.5em;
     margin: 0 0 15px;
     padding-right: 10px
@@ -1243,7 +1243,7 @@ ul.featured-posts li.last-item {
     position: relative;
     display: block;
     font-size: 13px;
-    color: #777;
+    color: #5a5a5a;
     line-height: 1.5em;
     margin: 0 0 15px;
     padding-right: 10px
