@@ -4356,7 +4356,7 @@ head.appendChild(script);
 </b:widget>
 <b:widget id='HTML301' locked='false' title='Disqus Shortname' type='HTML' version='1'>
   <b:widget-settings>
-    <b:widget-setting name='content'>alfabech-com</b:widget-setting>
+    <b:widget-setting name='content'>blog-alfabech</b:widget-setting>
   </b:widget-settings>
   <b:includable id='main'><b:if cond='data:blog.pageType == &quot;item&quot;'>
             &lt;script type=&#39;text/javascript&#39;&gt;
@@ -4390,7 +4390,7 @@ head.appendChild(script);
 </b:widget>
 <b:widget id='HTML602' locked='false' title='Disqus Shortname' type='HTML' version='1'>
   <b:widget-settings>
-    <b:widget-setting name='content'>alfabech-com</b:widget-setting>
+    <b:widget-setting name='content'>blog-alfabech</b:widget-setting>
   </b:widget-settings>
   <b:includable id='main'><b:if cond='data:blog.pageType == &quot;item&quot;'>
             &lt;script type=&#39;text/javascript&#39;&gt;
