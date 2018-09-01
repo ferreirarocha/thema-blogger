@@ -2329,7 +2329,7 @@ blockquote:after {
 .item-snippet {
     display: none;
     font-size: 0;
-    padding-top: 0
+		padding-top: 0
 }
 
 #footer-wrapper {
@@ -2337,7 +2337,8 @@ blockquote:after {
 		background-image: url(https://2.bp.blogspot.com/-nNQoX39-Px4/W4nCCUM3s_I/AAAAAAAACQQ/r0zND3snrJUlTqpYMHtLeEyYQeph9jhWgCLcBGAs/s1600/Webp.net-compress-image.jpg);
 		background-repeat: no-repeat;
 		background-attachment: fixed;
-		background-position: right;
+    background-position: center;
+    background-size: cover;
 }
 
 #footer {
